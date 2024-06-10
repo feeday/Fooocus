@@ -17,6 +17,7 @@
 ```
 pip install pygit2==1.12.2
 pip install --upgrade pip
+pip install --upgrade torch
 git clone https://github.com/lllyasviel/Fooocus.git
 cd Fooocus/
 python entry_with_update.py --share --always-high-vram
