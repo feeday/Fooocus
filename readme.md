@@ -15,7 +15,9 @@
 ```
 
 ```
-pip install pygit2==1.12.2
+python3 -m venv myenv
+source myenv/bin/activate
+pip install pygit2==1.12.2pip install transformers torch
 pip install gradio
 pip install --upgrade pip
 pip install --upgrade torch
