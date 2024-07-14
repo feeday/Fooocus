@@ -26,3 +26,26 @@ git clone https://github.com/lllyasviel/Fooocus.git
 cd Fooocus/
 python entry_with_update.py --share --always-high-vram
 ```
+
+```
+prompt
+man
+
+negative_prompt
+unrealistic, saturated, high contrast, big nose, painting, drawing, sketch, cartoon, anime, manga, render, CG, 3d, watermark, signature, label
+
+style_selections
+Fooocus V2,Fooocus Photograph,Fooocus Negative
+
+performance_selection
+Speed
+
+sharpness
+2
+
+guidance_scale
+3
+
+refiner_switch
+0.5
+```
